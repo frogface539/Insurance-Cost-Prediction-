@@ -89,5 +89,3 @@ streamlit run app.py
 ## 📜 License
 
 MIT © 2025 Lakshay Jain
-
-```
