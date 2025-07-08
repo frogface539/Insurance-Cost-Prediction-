@@ -19,7 +19,6 @@ Built using **TensorFlow, Streamlit, and scikit-learn**, the app enables real-ti
 ## 📁 Project Structure
 
 ```
-
 insurance-cost-predictor/
 ├── app.py                         # Streamlit UI
 ├── model/
@@ -29,8 +28,6 @@ insurance-cost-predictor/
 ├── 02\_single\_inference.ipynb         # Local test input predictor
 ├── insurance.csv                 # Dataset (from Kaggle)
 ├── requirements.txt              # Python dependencies
-└── .gitignore
-
 ````
 
 ---
