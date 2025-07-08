@@ -10,10 +10,6 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Model files
-model/*.h5
-model/*.pkl
-
 # Streamlit cache
 .streamlit/
 
